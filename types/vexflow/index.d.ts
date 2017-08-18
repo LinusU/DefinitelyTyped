@@ -1,7 +1,7 @@
 // Type definitions for VexFlow v1.2.84
 // Project: http://vexflow.com
 // Definitions by: Roman Quiring <https://github.com/rquiring>
-//                 Sebastian Haas <https://github.com/sebastianhaas/>
+//                 Sebastian Haas <https://github.com/sebastianhaas>
 //                 Basti Hoffmann <https://github.com/bohoffi/>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 

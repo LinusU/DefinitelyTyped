@@ -1,6 +1,6 @@
 // Type definitions for Video.js 5.16
 // Project: https://github.com/zencoder/video-js
-// Definitions by: Vincent Bortone <https://github.com/vbortone/>
+// Definitions by: Vincent Bortone <https://github.com/vbortone>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 // The Video.js API allows you to interact with the video through

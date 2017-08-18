@@ -1,6 +1,6 @@
 // Type definitions for cookies 0.6
 // Project: https://github.com/pillarjs/cookies
-// Definitions by: Wang Zishi <https://github.com/WangZishi/>, jKey Lu <https://github.com/jkeylu>
+// Definitions by: Wang Zishi <https://github.com/WangZishi>, jKey Lu <https://github.com/jkeylu>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 /// <reference types="node" />

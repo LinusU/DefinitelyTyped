@@ -1,6 +1,6 @@
 // Type definitions for passport-jwt 2.0
 // Project: https://github.com/themikenicholson/passport-jwt
-// Definitions by: TANAKA Koichi <https://github.com/mugeso/>
+// Definitions by: TANAKA Koichi <https://github.com/mugeso>
 //                 Alex Young <https://github.com/alsiola/>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 

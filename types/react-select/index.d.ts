@@ -1,6 +1,6 @@
 // Type definitions for react-select 1.0
 // Project: https://github.com/JedWatson/react-select
-// Definitions by: ESQUIBET Hugo <https://github.com/Hesquibet/>
+// Definitions by: ESQUIBET Hugo <https://github.com/Hesquibet>
 //                 Gilad Gray <https://github.com/giladgray/>
 //                 Izaak Baker <https://github.com/iebaker/>
 //                 Tadas Dailyda <https://github.com/skirsdeda/>

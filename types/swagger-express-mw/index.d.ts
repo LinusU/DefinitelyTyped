@@ -1,6 +1,6 @@
 // Type definitions for swagger-express-mw 0.7
 // Project: https://github.com/apigee-127/swagger-express#readme
-// Definitions by: Michael Mrowetz <https://github.com/micmro/>
+// Definitions by: Michael Mrowetz <https://github.com/micmro>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.2
 

@@ -1,6 +1,6 @@
 // Type definitions for koa-views 2.x
 // Project: https://github.com/queckezz/koa-views
-// Definitions by: Alex Friedman <https://github.com/brooklyndev/>
+// Definitions by: Alex Friedman <https://github.com/brooklyndev>
 // Definitions: https://github.com/brooklyndev/DefinitelyTyped
 
 /* =================== USAGE ===================

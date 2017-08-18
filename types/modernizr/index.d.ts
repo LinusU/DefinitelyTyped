@@ -1,6 +1,6 @@
 // Type definitions for Modernizr 3.5
 // Project: http://modernizr.com/
-// Definitions by: Boris Yankov <https://github.com/borisyankov/>
+// Definitions by: Boris Yankov <https://github.com/borisyankov>
 //                 Theodore Brown <https://github.com/theodorejb/>
 //                 Leon Yu <https://github.com/leonyu/>
 //                 Luca Trazzi <https://github.com/lucax88x/>
