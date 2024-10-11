@@ -58,7 +58,12 @@
 }
 
 {
-    const stream = new ReadableStream<string>({ start: (controller) => controller.enqueue("hello") }); // $ExpectType ReadableStream<string>
+    const readStream = new ReadableStream<string>({ start: (controller) => controller.enqueue("hello") }); // $ExpectType ReadableStream<string>
+    // $ExpectType TransformStream<number, string>
+    const transformStream = new TransformStream<number, string>({
+        transform: (chunk, controller) => controller.enqueue(chunk.toString()),
+    });
+    const writeStream = new WritableStream<string>({ start: (controller) => controller.error("hello") }); // $ExpectType WritableStream<string>
     const compressionStream = new CompressionStream("gzip");
     const encodedStream = stream.pipeThrough(new TextEncoderStream()); // $ExpectType ReadableStream<Uint8Array> || ReadableStream<Uint8Array<ArrayBufferLike>>
     const compressedStream = encodedStream.pipeThrough(compressionStream); // $ExpectType ReadableStream<any> || ReadableStream<Uint8Array<ArrayBufferLike>>
